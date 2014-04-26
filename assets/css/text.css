@@ -1,0 +1,143 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+
+body {
+    font: 12px/1.5em "Helvetica Neue", Arial, sans-serif;
+}
+
+@font-face {
+    font-family: 'QlassikMediumRegular';
+    src: url('font/Qlassik_TB-webfont.eot');
+    src: url('font/Qlassik_TB-webfont.eot?#iefix') format('embedded-opentype'),
+    url('font/Qlassik_TB-webfont.woff') format('woff'),
+    url('font/Qlassik_TB-webfont.ttf') format('truetype'),
+    url('font/Qlassik_TB-webfont.svg#QlassikMediumRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'QlassikBoldRegular';
+    src: url('font/QlassikBold_TB-webfont.eot');
+    src: url('font/QlassikBold_TB-webfont.eot?#iefix') format('embedded-opentype'),
+    url('font/QlassikBold_TB-webfont.woff') format('woff'),
+    url('font/QlassikBold_TB-webfont.ttf') format('truetype'),
+    url('font/QlassikBold_TB-webfont.svg#QlassikBoldRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'QlassikBoldRegular', Arial, sans-serif;
+    line-height: 1.5em;
+    font-weight: 400;
+    color: #484848;
+}
+
+.heading_404,
+.text_404,
+.feature_box .feature_heading,
+.member_info .member_name {
+    font-family: 'QlassikBoldRegular', Arial, sans-serif;
+}
+
+.dropcap,
+.iconbox32, .iconbox16,
+ul#mainmenu > li a,
+.camera_desc.heading,
+.filter_options ul li,
+.member_info .member_job,
+.a_member .social_title,
+.a_blogpost .social_links .share_text,
+.share-post,
+.a_work .work_heading,
+.a_work .social_links .share_text,
+.pricing_heading,
+.testimonial .who .name,
+.tabs > ul li a,
+.sc_button {
+    font-family: 'QlassikMediumRegular', Arial, sans-serif;
+}
+
+hr {
+    border: 0 #f3f3f3 solid;
+    border-top-width: 1px;
+    clear: both;
+    height: 0;
+    margin-top: 10px;
+}
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 21px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 15px;
+}
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+    list-style: decimal;
+}
+
+ul {
+    list-style: disc;
+}
+
+li {
+    margin-left: 30px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+    margin-bottom: 20px;
+}

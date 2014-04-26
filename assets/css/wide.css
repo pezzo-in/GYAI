@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1280px) {
+
+    .container_full {
+        max-width: 100% !important;
+    }
+
+    #nivoslider {
+        height: 560px !important;
+        overflow: hidden !important;
+    }
+
+    #cameraSlider, #cameraSlider2 {
+        height: 560px !important;
+    }
+
+    .cameraSlide img {
+        top: -150px;
+    }
+
+    .camera_desc {
+        display: none;
+    }
+
+    .videoBG {
+        height: 300px;
+        overflow: hidden;
+    }
+
+}
