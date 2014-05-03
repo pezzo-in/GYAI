@@ -20,25 +20,25 @@
         <!-- menu -->
         <div id="header">
             <!-- logo -->
-            <div id="logo"><a href="index.html"><img src="assets/images/logo.png" alt="logo"/></a></div>
+            <div id="logo"><a href="index.php"><img src="assets/images/logo.png" alt="logo"/></a></div>
             <ul id="mainmenu">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>
-                    <a href="vision.html">Vision</a>
+                    <a href="vision.php" class="active">Vision</a>
                 </li>
                 <li>
-                    <a href="mission.html" class="active">Mission</a>
+                    <a href="mission.php">Mission</a>
                 </li>
                 <li>
-                    <a href="training.html">Training</a>
+                    <a href="training.php">Training</a>
                     <ul>
-                        <li><a href="training.html#ecell">Ecell</a></li>
+                        <li><a href="training.php#ecell">Ecell</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a href="inspiration.html">Inspiration inside</a>
+                    <a href="inspiration.php">Inspiration inside</a>
                 </li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
             <!-- search bar end -->
         </div>
@@ -50,7 +50,7 @@
     <div class="header_text">
         <div class="container_12">
             <div class="grid_12">
-                <h1>OUR MISSION</h1>
+                <h1>OUR VISION</h1>
             </div>
         </div>
     </div>
@@ -59,35 +59,29 @@
     <div class="container_12">
         <div class="divider_page"></div>
         <div class="fitVideo">
-            <iframe width="640" height="250" src="http://www.youtube.com/embed/1B8sfYl-oBw" frameborder="0"
+            <iframe width="640" height="250" src="http://www.youtube.com/embed/wf81oOGBxUs" frameborder="0"
                     allowfullscreen></iframe>
         </div>
     </div>
     <div class="container_12">
         <div class="grid_12">
-            <p>With India making its name in the domain of IT, we wish to use this fast evolving technology to aid us in
-                our vision. With technology that is bringing man closer to another and connecting mankind across
-                international borders, we see it as one of the greatest tools to creating a wealthy economy by first
-                creating wealthy individuals. Being a nation where human capital is abundant and so is Intellectual
-                Capital, we are under a risk of being used by richer economies that are currently buying us as cheap
-                labour. At #RevolutionGYAI, we wish to leverage on our Social & Intellectual capital to create 50,000
-                Edupreneurs by 2015.
+            <p>India has given birth to many great minds. One of them is Swami Vivekananda. A man who foresaw and wrote
+                about an India that would have lost its focus, values, ethics and every important aspect that we were
+                once proud of. He always spoke about the importance of awakening the ‘Atman’, the spirit that lies
+                within each of us and utilizing its power to achieve any degree of success that one desired.
+            </p>
+            <p> At #RevolutionGYAI, we have dedicated ourselves to empower our youth (63% of our population) with
+                knowledge of the self, that has the power of unlocking the unlimited potential which each of us have
+                within. We believe that if we shift our focus to what we already have and build that into our strength,
+                our weaknesses will become incompetent to hold us back into mediocrity. We believe that when 400 Million
+                (approx. half of Gen Y) realize the latent power within them, the nation will rise to a new dawn
+                bringing peace and prosperity to this world. We Believe, India can and will accomplish this feat by
+                2020.
             </p>
 
-            <p> Imagine 50,000 Edupreneurs, contributing just a small amount to charity every month. We will have enough
-                funds to transform village by village every month. All this without any beurocratic involvements. What
-                we wish to prove to this generation is that – The fate of this great nation lies in our hands. We either
-                make a fist and work for our nation or we shall continue to be used like cheap labour by other economies
-                and/or companies originating from them.
-            </p>
-
-            <p>
-                We believe that, #RevolutionGYAI will sprout great men and women of action and spirituality who will
-                work out the ideas leading to an Awakened India which Swami Vivekananda envisioned a 100yrs back.
-            </p>
-
-            <p>
-                The choice is yours. Watch us transform this nation or Join Us and do something significant.
+            <p> The question is, do you believe yourself to be worth of becoming one of the catalyst in this
+                transformation ? If yes, write to us about your aspirations and we will contribute our bit to you living
+                them in real.
             </p>
 
             <div class="blockquote">

@@ -19,25 +19,25 @@
     <!-- menu -->
     <div id="header">
         <!-- logo -->
-        <div id="logo"><a href="index.html"><img src="assets/images/logo.png" alt="logo"/></a></div>
+        <div id="logo"><a href="index.php"><img src="assets/images/logo.png" alt="logo"/></a></div>
         <ul id="mainmenu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>
-                <a href="vision.html">Vision</a>
+                <a href="vision.php">Vision</a>
             </li>
             <li>
-                <a href="mission.html">Mission</a>
+                <a href="mission.php">Mission</a>
             </li>
             <li>
-                <a href="training.html">Training</a>
+                <a href="training.php">Training</a>
                 <ul>
-                    <li><a href="training.html#ecell">Ecell</a></li>
+                    <li><a href="training.php#ecell">Ecell</a></li>
                 </ul>
             </li>
             <li>
-                <a href="inspiration.html">Inspiration inside</a>
+                <a href="inspiration.php">Inspiration inside</a>
             </li>
-            <li><a href="contact.html" class="active">Contact</a></li>
+            <li><a href="contact.php" class="active">Contact</a></li>
         </ul>
         <!-- search bar end -->
     </div>
@@ -68,7 +68,7 @@
             middle of text.</p>
 
         <div class="contact_form">
-            <form action="contact.html" method="post" name="messageform">
+            <form action="contact.php" method="post" name="messageform">
                 <div class="grid_3 alpha">
                     <input name="namesurname" type="text" value="Name:" class="input-text"/>
                 </div>

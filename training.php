@@ -20,25 +20,25 @@
     <!-- menu -->
     <div id="header">
         <!-- logo -->
-        <div id="logo"><a href="index.html"><img src="assets/images/logo.png" alt="logo"/></a></div>
+        <div id="logo"><a href="index.php"><img src="assets/images/logo.png" alt="logo"/></a></div>
         <ul id="mainmenu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>
-                <a href="vision.html">Vision</a>
+                <a href="vision.php">Vision</a>
             </li>
             <li>
-                <a href="mission.html">Mission</a>
+                <a href="mission.php">Mission</a>
             </li>
             <li>
-                <a href="training.html" class="active">Training</a>
+                <a href="training.php" class="active">Training</a>
                 <ul>
-                    <li><a href="training.html#ecell">Ecell</a></li>
+                    <li><a href="training.php#ecell">Ecell</a></li>
                 </ul>
             </li>
             <li>
-                <a href="inspiration.html">Inspiration inside</a>
+                <a href="inspiration.php">Inspiration inside</a>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact.php">Contact</a></li>
         </ul>
         <!-- search bar end -->
     </div>

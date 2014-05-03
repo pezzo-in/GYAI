@@ -24,21 +24,21 @@
         <ul id="mainmenu">
             <li><a href="index.html" class="active">Home</a></li>
             <li>
-                <a href="vision.html">Vision</a>
+                <a href="vision.php">Vision</a>
             </li>
             <li>
-                <a href="mission.html">Mission</a>
+                <a href="mission.php">Mission</a>
             </li>
             <li>
-                <a href="training.html">Training</a>
+                <a href="training.php">Training</a>
                 <ul>
-                    <li><a href="training.html#ecell">Ecell</a></li>
+                    <li><a href="training.php#ecell">Ecell</a></li>
                 </ul>
             </li>
             <li>
-                <a href="inspiration.html">Inspiration inside</a>
+                <a href="inspiration.php">Inspiration inside</a>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact.php">Contact</a></li>
         </ul>
     </div>
     <!-- menu end -->
@@ -123,7 +123,7 @@
     <div class="grid_3 lambda">
         <!-- a feature box -->
         <div class="feature_box">
-            <div class="feature_icon"><a href="contact.html" class="misc_icons32 icon32_96"></a></div>
+            <div class="feature_icon"><a href="contact.php" class="misc_icons32 icon32_96"></a></div>
             <div class="feature_content">
                 <div class="feature_heading">
                     <div class="medium">OUR</div>
@@ -132,7 +132,7 @@
                 <p class="feature_desc">Duis nec elit nunc. Phasellus, est non hendrerit aliquet, dolor ante sagittis
                     magna.</p>
             </div>
-            <div class="feature_link"><a href="contact.html" class="arrows_icons16 icon16_5 tooltip_s"
+            <div class="feature_link"><a href="contact.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
         </div>
         <!-- a feature box end -->
