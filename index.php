@@ -98,7 +98,7 @@
                 <p class="feature_desc">To have more collaboration towards making India a super power and an epitome of
                     world peace and prosperity</p>
             </div>
-            <div class="feature_link"><a href="sliders.html" class="arrows_icons16 icon16_5 tooltip_s"
+            <div class="feature_link"><a href="vision.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
         </div>
         <!-- a feature box end -->
@@ -115,7 +115,7 @@
                 <p class="feature_desc">Our mission is to wake the Gen Y to the power of these agents to create 50,000
                     Edupreneurs by 2015</p>
             </div>
-            <div class="feature_link"><a href="portfolio_one_column.html" class="arrows_icons16 icon16_5 tooltip_s"
+            <div class="feature_link"><a href="mission.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
         </div>
         <!-- a feature box end -->
@@ -132,7 +132,7 @@
                 <p class="feature_desc">Duis nec elit nunc. Phasellus, est non hendrerit aliquet, dolor ante sagittis
                     magna.</p>
             </div>
-            <div class="feature_link"><a href="contact.php" class="arrows_icons16 icon16_5 tooltip_s"
+            <div class="feature_link"><a href="training.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
         </div>
         <!-- a feature box end -->
@@ -144,12 +144,12 @@
             <div class="feature_content">
                 <div class="feature_heading">
                     <div class="medium">OUR</div>
-                    <div class="large">TEAM</div>
+                    <div class="large">INSPIRATIONS</div>
                 </div>
                 <p class="feature_desc">Etiam id sapien ultricies euis iaculis. Quisque lorem, viv non sodales a,
                     pellentesque in.</p>
             </div>
-            <div class="feature_link"><a href="elements.html" class="arrows_icons16 icon16_5 tooltip_s"
+            <div class="feature_link"><a href="inspiration.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
         </div>
         <!-- a feature box end -->
@@ -470,81 +470,7 @@
 </div>
 <!-- container 12 end -->
 <!-- footer -->
-<div id="footer">
-    <div class="back_top"></div>
-    <!-- footer container -->
-    <div class="container_12 footer_content">
-        <div class="grid_3">
-            <h3><span class="first-word">Latest</span> Tweets</h3>
-
-            <div class="latest_tweets"></div>
-        </div>
-        <div class="grid_3">
-            <h3><span class="first-word">Recent</span> Posts</h3>
-
-            <div class="recent_posts">
-                <div class="a_post">
-                    <a href="blog_single_post.html" title="Lorem ipsum dolor si amet there internet" class="post_img">
-                        <img src="assets/images/mix/80/image.jpg" alt="Recent Post 1"/>
-                    </a>
-                    <h6 class="post_heading"><a href="blog_single_post.html">Lorem ipsum dolor si amet there
-                        internet</a></h6>
-
-                    <div class="post_meta"><span class="time">12/01/2012</span> &bull; <a
-                            href="blog_single_post.html#comments">10 comments</a></div>
-                </div>
-                <div class="a_post">
-                    <a href="blog_single_post.html" title="There are many variations of passages" class="post_img">
-                        <img src="assets/images/mix/80/image.jpg" alt="Recent Post 2"/>
-                    </a>
-                    <h6 class="post_heading"><a href="blog_single_post.html">There are many variations of passages</a>
-                    </h6>
-
-                    <div class="post_meta"><span class="time">10/01/2013</span> &bull; <a
-                            href="blog_single_post.html#comments">30 comments</a></div>
-                </div>
-                <div class="a_post">
-                    <a href="blog_single_post.html" title="Making this the first true generator on the"
-                       class="post_img">
-                        <img src="assets/images/mix/80/image.jpg" alt="Recent Post 3"/>
-                    </a>
-                    <h6 class="post_heading"><a href="blog_single_post.html">Making this the first true generator on
-                        the</a></h6>
-
-                    <div class="post_meta"><span class="time">07/01/2013</span> &bull; <a
-                            href="blog_single_post.html#comments">39 comments</a></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- footer container end -->
-    <div class="clearfix"></div>
-    <!-- footer bottom -->
-    <div class="footer_bottom">
-        <div class="container_12">
-            <div class="grid_6">
-                <div class="footer_text">Copyright 2013 &copy;, Created by <a href="http://designforlifeden.com"
-                                                                              target="_blank">DesignForLife</a></div>
-            </div>
-            <div class="grid_6">
-                <div class="float_right socialicons">
-                    <a href="http://facebook.com/" target="_blank" class="social_colored facebook" title="Facebook"></a>
-                    <a href="http://dribbble.com/" target="_blank" class="social_colored dribbble" title="Dribbble"></a>
-                    <a href="http://twitter.com/" target="_blank" class="social_colored twitter" title="Twitter"></a>
-                    <a href="http://myspace.com/" target="_blank" class="social_colored myspace" title="MySpace"></a>
-                    <a href="http://flickr.com/" target="_blank" class="social_colored flickr" title="Flickr"></a>
-                    <a href="http://forrst.com/" target="_blank" class="social_colored forrst" title="Forrst"></a>
-                    <a href="http://linkedin.com/" target="_blank" class="social_colored linkedin" title="Linkedin"></a>
-                    <a href="http://skype.com/" target="_blank" class="social_colored skype" title="Skype"></a>
-                    <a href="http://vimeo.com/" target="_blank" class="social_colored vimeo" title="Vimeo"></a>
-                    <a href="http://tumblr.com/" target="_blank" class="social_colored tumblr" title="Tumblr"></a>
-                    <a href="mailto:yourmail@mail.com" class="social_colored mail" title="Mail"></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- footer bottom end -->
-</div>
+<?php include 'footer.php';?>
 <!-- footer end -->
 </div>
 <!-- container full end -->
