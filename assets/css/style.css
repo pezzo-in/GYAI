@@ -576,11 +576,20 @@ ul.sidebar_cat li a {
 }
 
 .our_clients .a_client {
-    width: 160px;
-    height: 40px;
-    padding: 0 15px;
+    width: auto;
+    height: 70px;
+    padding: 0 55px 0 0;
     display: block;
     float: left;
+    font-size: 20px;
+    text-align: center;
+}
+
+.our_clients .a_client .area {
+    clear: both;
+    display: block;
+    font-size: 12px;
+    text-align: center;
 }
 
 .our_clients .a_client.ocean3d {

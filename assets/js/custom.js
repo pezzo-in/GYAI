@@ -143,13 +143,13 @@ $(document).ready(function(){
 		});
 	
 	/*Twitter*/
-	$('.latest_tweets, .sidebar_tweets').tweetable({username: 'Envato', time: true, limit: 2, replies: false});
+	$('.latest_tweets, .sidebar_tweets').tweetable({username: 'pavan_sry', time: true, limit: 2, replies: false});
 	
 	/*Flickr Feed*/
 	$('#flickrfeed,#sidebarflickr').jflickrfeed({
-	limit: 9,
+	limit: 14,
 	qstrings: {
-		id: '52617155@N08'
+		id: '124279795@N07'
 	},
 	itemTemplate: 
 		'<li>' +

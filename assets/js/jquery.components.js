@@ -851,7 +851,7 @@ var pp_alreadyInitialized = false;
  */
 (function ($) {
     $.fn.jflickrfeed = function (settings, callback) {
-        settings = $.extend(true, {flickrbase: 'http://api.flickr.com/services/feeds/', feedapi: 'photos_public.gne?id=124279795@N07&lang=en-us&format=rss_200', limit: 20, qstrings: {lang: 'en-us', format: 'json', jsoncallback: '?'}, cleanDescription: true, useTemplate: true, itemTemplate: '', itemCallback: function () {
+        settings = $.extend(true, {flickrbase: 'http://api.flickr.com/services/feeds/', feedapi: 'photos_public.gne', limit: 20, qstrings: {lang: 'en-us', format: 'json', jsoncallback: '?'}, cleanDescription: true, useTemplate: true, itemTemplate: '', itemCallback: function () {
         }}, settings);
         var url = settings.flickrbase + settings.feedapi + '?';
         var first = true;

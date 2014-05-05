@@ -86,7 +86,7 @@
 </div>
 <div class="grid_12">
     <div class="divider_page"><h2>Features</h2></div>
-    <div class="grid_3 alpha">
+    <div class="grid_4 alpha">
         <!-- a feature box -->
         <div class="feature_box">
             <div class="feature_icon"><a href="sliders.html" class="misc_icons32 icon32_97"></a></div>
@@ -103,7 +103,7 @@
         </div>
         <!-- a feature box end -->
     </div>
-    <div class="grid_3 lambda">
+    <div class="grid_4 lambda">
         <!-- a feature box -->
         <div class="feature_box">
             <div class="feature_icon"><a href="portfolio_one_column.html" class="misc_icons32 icon32_93"></a></div>
@@ -120,7 +120,7 @@
         </div>
         <!-- a feature box end -->
     </div>
-    <div class="grid_3 lambda">
+    <div class="grid_4 omega">
         <!-- a feature box -->
         <div class="feature_box">
             <div class="feature_icon"><a href="contact.php" class="misc_icons32 icon32_96"></a></div>
@@ -129,27 +129,9 @@
                     <div class="medium">OUR</div>
                     <div class="large">TRAININGS</div>
                 </div>
-                <p class="feature_desc">Duis nec elit nunc. Phasellus, est non hendrerit aliquet, dolor ante sagittis
-                    magna.</p>
+                <p class="feature_desc">Here, our complete focus is the all-round development of an individual. Mentally, Emotionally, Financially and Spiritually</p>
             </div>
             <div class="feature_link"><a href="training.php" class="arrows_icons16 icon16_5 tooltip_s"
-                                         title="Read More"></a></div>
-        </div>
-        <!-- a feature box end -->
-    </div>
-    <div class="grid_3 omega">
-        <!-- a feature box -->
-        <div class="feature_box">
-            <div class="feature_icon"><a href="elements.html" class="misc_icons32 icon32_26"></a></div>
-            <div class="feature_content">
-                <div class="feature_heading">
-                    <div class="medium">OUR</div>
-                    <div class="large">INSPIRATIONS</div>
-                </div>
-                <p class="feature_desc">Etiam id sapien ultricies euis iaculis. Quisque lorem, viv non sodales a,
-                    pellentesque in.</p>
-            </div>
-            <div class="feature_link"><a href="inspiration.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
         </div>
         <!-- a feature box end -->
@@ -157,7 +139,7 @@
 </div>
 <!-- features boxes end -->
 <!-- recent works -->
-<div class="grid_12">
+<!--<div class="grid_12">
     <div class="divider_page">
         <h2>Recent Seminars &amp; Training</h2>
 
@@ -168,7 +150,7 @@
     </div>
 </div>
 <div id="recentWorks">
-<!-- a work -->
+&lt;!&ndash; a work &ndash;&gt;
 <div class="a_work">
     <div class="normal">
         <img src="assets/images/mix/940/image_fixed.jpg" alt="Business Man" class="grid_image"/>
@@ -185,7 +167,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- social links -->
+        &lt;!&ndash; social links &ndash;&gt;
         <div class="social_links">
             <div class="share_text">Share on</div>
             <div class="share_icons">
@@ -199,11 +181,11 @@
                    class="social_colored mail tooltip_s" title="Mail"></a>
             </div>
         </div>
-        <!-- social links end -->
+        &lt;!&ndash; social links end &ndash;&gt;
     </div>
 </div>
-<!-- a work end -->
-<!-- a work -->
+&lt;!&ndash; a work end &ndash;&gt;
+&lt;!&ndash; a work &ndash;&gt;
 <div class="a_work">
     <div class="normal">
         <img src="assets/images/mix/940/image_fixed.jpg" alt="Luxury Life" class="grid_image"/>
@@ -220,7 +202,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- social links -->
+        &lt;!&ndash; social links &ndash;&gt;
         <div class="social_links">
             <div class="share_text">Share on</div>
             <div class="share_icons">
@@ -234,11 +216,11 @@
                    class="social_colored mail tooltip_s" title="Mail"></a>
             </div>
         </div>
-        <!-- social links end -->
+        &lt;!&ndash; social links end &ndash;&gt;
     </div>
 </div>
-<!-- a work end -->
-<!-- a work -->
+&lt;!&ndash; a work end &ndash;&gt;
+&lt;!&ndash; a work &ndash;&gt;
 <div class="a_work">
     <div class="normal">
         <img src="assets/images/mix/940/image_fixed.jpg" alt="Good Morning" class="grid_image"/>
@@ -255,7 +237,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- social links -->
+        &lt;!&ndash; social links &ndash;&gt;
         <div class="social_links">
             <div class="share_text">Share on</div>
             <div class="share_icons">
@@ -269,11 +251,11 @@
                    class="social_colored mail tooltip_s" title="Mail"></a>
             </div>
         </div>
-        <!-- social links end -->
+        &lt;!&ndash; social links end &ndash;&gt;
     </div>
 </div>
-<!-- a work end -->
-<!-- a work -->
+&lt;!&ndash; a work end &ndash;&gt;
+&lt;!&ndash; a work &ndash;&gt;
 <div class="a_work">
     <div class="normal">
         <img src="assets/images/mix/940/image_fixed.jpg" alt="Shopping" class="grid_image"/>
@@ -290,7 +272,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- social links -->
+        &lt;!&ndash; social links &ndash;&gt;
         <div class="social_links">
             <div class="share_text">Share on</div>
             <div class="share_icons">
@@ -304,11 +286,11 @@
                    class="social_colored mail tooltip_s" title="Mail"></a>
             </div>
         </div>
-        <!-- social links end -->
+        &lt;!&ndash; social links end &ndash;&gt;
     </div>
 </div>
-<!-- a work end -->
-<!-- a work -->
+&lt;!&ndash; a work end &ndash;&gt;
+&lt;!&ndash; a work &ndash;&gt;
 <div class="a_work">
     <div class="normal">
         <img src="assets/images/mix/940/image_fixed.jpg" alt="Luxury Life" class="grid_image"/>
@@ -325,7 +307,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- social links -->
+        &lt;!&ndash; social links &ndash;&gt;
         <div class="social_links">
             <div class="share_text">Share on</div>
             <div class="share_icons">
@@ -339,11 +321,11 @@
                    class="social_colored mail tooltip_s" title="Mail"></a>
             </div>
         </div>
-        <!-- social links end -->
+        &lt;!&ndash; social links end &ndash;&gt;
     </div>
 </div>
-<!-- a work end -->
-<!-- a work -->
+&lt;!&ndash; a work end &ndash;&gt;
+&lt;!&ndash; a work &ndash;&gt;
 <div class="a_work">
     <div class="normal">
         <img src="assets/images/mix/940/image_fixed.jpg" alt="Good Morning" class="grid_image"/>
@@ -360,7 +342,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- social links -->
+        &lt;!&ndash; social links &ndash;&gt;
         <div class="social_links">
             <div class="share_text">Share on</div>
             <div class="share_icons">
@@ -374,11 +356,11 @@
                    class="social_colored mail tooltip_s" title="Mail"></a>
             </div>
         </div>
-        <!-- social links end -->
+        &lt;!&ndash; social links end &ndash;&gt;
     </div>
 </div>
-<!-- a work end -->
-</div>
+&lt;!&ndash; a work end &ndash;&gt;
+</div>-->
 <!-- recent works end -->
 <div class="clearfix"></div>
 <!-- popular blog post and testiomonials -->
@@ -454,16 +436,19 @@
         </div>
     </div>
     <div class="our_clients">
-        <a href="http://themeforest.net/?ref=DesignForLife" target="_blank" class="a_client themeforest"></a>
-        <a href="http://activeden.net/?ref=DesignForLife" target="_blank" class="a_client activeden"></a>
-        <a href="http://audiojungle.net/?ref=DesignForLife" target="_blank" class="a_client audiojungle"></a>
-        <a href="http://codecanyon.net/?ref=DesignForLife" target="_blank" class="a_client codecanyon"></a>
-        <a href="http://3docean.net/?ref=DesignForLife" target="_blank" class="a_client ocean3d"></a>
-        <a href="http://photodune.net/?ref=DesignForLife" target="_blank" class="a_client photodune"></a>
-        <a href="http://themeforest.net/?ref=DesignForLife" target="_blank" class="a_client tutorials"></a>
-        <a href="http://videohive.net/?ref=DesignForLife" target="_blank" class="a_client videohive"></a>
-        <a href="http://activeden.net/?ref=DesignForLife" target="_blank" class="a_client activeden"></a>
-        <a href="http://themeforest.net/?ref=DesignForLife" target="_blank" class="a_client themeforest"></a>
+        <div class="a_client">Cambridge Institutions <span class="area">K R Puram</span></div>
+        <div class="a_client">Krupanidhi College <span class="area">Varthur</span></div>
+        <div class="a_client">St Joseph's College of Commerce <span class="area">Brigades</span></div>
+        <div class="a_client">BMSIT<span class="area">Yelahanka</span></div>
+        <div class="a_client">Surana college<span class="area">South end</span></div>
+        <div class="a_client">Surana college<span class="area">Baswanagudi</span></div>
+        <div class="a_client">Surana college<span class="area">Kengeri</span></div>
+        <div class="a_client">Dayanand sagar college <span class="area">Kumarswamy layout</span></div>
+        <div class="a_client">Oxford College <span class="area">H.S.R.Layout </span></div>
+        <div class="a_client">Soundarya Institute of Management & Science <span class="area">Sidedahalli</span></div>
+        <div class="a_client">Soundarya Institute of Management & Science <span class="area">Nagasandra</span></div>
+        <div class="a_client">St. Claret <span class="area">Jalahalli</span></div>
+        <div class="a_client">VV Puram College <span class="area">V V Puram</span></div>
     </div>
 </div>
 <!-- our clients end -->

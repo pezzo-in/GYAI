@@ -13,11 +13,6 @@
                 90<br><b>Fax:</b><br>+90(123) 456-78 91</p>
         </div>
         <div class="grid_3">
-            <h3><span class="first-word">Latest</span> Tweets</h3>
-
-            <div class="latest_tweets"></div>
-        </div>
-        <div class="grid_3">
             <h3><span class="first-word">Recent</span> Posts</h3>
 
             <div class="recent_posts">
@@ -56,7 +51,13 @@
                 </div>
             </div>
         </div>-->
-        <div class="grid_3">
+        <!--<div class="grid_3">
+            <h3><span class="first-word">Latest</span> Tweets</h3>
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/pavan_sry" data-widget-id="463176292041359362">Tweets by @pavan_sry</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <div class="latest_tweets"></div>
+        </div>-->
+        <div class="grid_12">
             <h3><span class="first-word">Gallery</span> Stream</h3>
             <ul id="flickrfeed"></ul>
         </div>
@@ -74,19 +75,19 @@
                 <div class="float_right socialicons">
                     <a href="http://facebook.com/" target="_blank" class="social_colored facebook"
                        title="Facebook"></a>
-                    <a href="http://dribbble.com/" target="_blank" class="social_colored dribbble"
-                       title="Dribbble"></a>
                     <a href="http://twitter.com/" target="_blank" class="social_colored twitter"
                        title="Twitter"></a>
+                    <a href="http://flickr.com/" target="_blank" class="social_colored flickr" title="Flickr"></a>
+                    <!--<a href="http://dribbble.com/" target="_blank" class="social_colored dribbble"
+                       title="Dribbble"></a>
                     <a href="http://myspace.com/" target="_blank" class="social_colored myspace"
                        title="MySpace"></a>
-                    <a href="http://flickr.com/" target="_blank" class="social_colored flickr" title="Flickr"></a>
                     <a href="http://forrst.com/" target="_blank" class="social_colored forrst" title="Forrst"></a>
                     <a href="http://linkedin.com/" target="_blank" class="social_colored linkedin"
                        title="Linkedin"></a>
                     <a href="http://skype.com/" target="_blank" class="social_colored skype" title="Skype"></a>
                     <a href="http://vimeo.com/" target="_blank" class="social_colored vimeo" title="Vimeo"></a>
-                    <a href="http://tumblr.com/" target="_blank" class="social_colored tumblr" title="Tumblr"></a>
+                    <a href="http://tumblr.com/" target="_blank" class="social_colored tumblr" title="Tumblr"></a>-->
                     <a href="mailto:yourmail@mail.com" class="social_colored mail" title="Mail"></a>
                 </div>
             </div>
