@@ -91,21 +91,12 @@
     <!-- sidebar left -->
     <div class="sidebar left grid_3">
         <div class="divider_page"><h4>Contact Info</h4></div>
-        <p><b>Address:</b><br>Sokullu Mehmet Pasa Street 1234, Country<br><b>Telephone:</b><br>+90(123) 456-78 90<br><b>Fax:</b><br>+90(123)
-            456-78 91</p>
-
+        <p><b>Telephone:</b><br>+91 8951 041 238<br></p>
         <div class="divider_page"><h4>Get Social</h4></div>
         <p>
-            <a href="#" class="social_icons16 icon16_1 tooltip_s" title="Digg"></a>
+            <!--<a href="#" class="social_icons16 icon16_1 tooltip_s" title="Digg"></a>
             <a href="#" class="social_icons16 icon16_5 tooltip_s" title="Vimeo"></a>
-            <a href="#" class="social_icons16 icon16_11 tooltip_s" title="Google Plus"></a>
-            <a href="#" class="social_icons16 icon16_15 tooltip_s" title="DropBox"></a>
-            <a href="#" class="social_icons16 icon16_16 tooltip_s" title="Moby Picture"></a>
-            <a href="#" class="social_icons16 icon16_28 tooltip_s" title="Twitter"></a>
             <a href="#" class="social_icons16 icon16_21 tooltip_s" title="LinkedIn"></a>
-            <a href="#" class="social_icons16 icon16_22 tooltip_s" title="Facebook"></a>
-            <a href="#" class="social_icons16 icon16_2 tooltip_s" title="Facebook"></a>
-            <a href="#" class="social_icons16 icon16_3 tooltip_s" title="Twitter"></a>
             <a href="#" class="social_icons16 icon16_4 tooltip_s" title="iChat"></a>
             <a href="#" class="social_icons16 icon16_6 tooltip_s" title="StubleUpon"></a>
             <a href="#" class="social_icons16 icon16_7 tooltip_s" title="Digg"></a>
@@ -117,6 +108,13 @@
             <a href="#" class="social_icons16 icon16_19 tooltip_s" title="Delicious"></a>
             <a href="#" class="social_icons16 icon16_25 tooltip_s" title="Dribbble"></a>
             <a href="#" class="social_icons16 icon16_29 tooltip_s" title="Gowalla"></a>
+            <a href="#" class="social_icons16 icon16_15 tooltip_s" title="DropBox"></a>
+            <a href="#" class="social_icons16 icon16_16 tooltip_s" title="Moby Picture"></a>
+            <a href="#" class="social_icons16 icon16_28 tooltip_s" title="Twitter"></a>
+            <a href="#" class="social_icons16 icon16_2 tooltip_s" title="Facebook"></a>-->
+            <a href="#" class="social_icons16 icon16_22 tooltip_s" title="Facebook"></a>
+            <a href="#" class="social_icons16 icon16_11 tooltip_s" title="Google Plus"></a>
+            <a href="#" class="social_icons16 icon16_3 tooltip_s" title="Twitter"></a>
         </p>
     </div>
 </div>
@@ -130,40 +128,5 @@
 <script src="assets/js/jquery.components.js" type="text/javascript"></script>
 <script src="assets/js/custom.js" type="text/javascript"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-<script type="text/javascript">
-    function initialize() {
-        var myLatlng = new google.maps.LatLng(40.714353, -74.005973);
-        var mapOptions = {
-            zoom: 12,
-            center: myLatlng,
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            mapTypeControl: false,
-            scrollwheel: false,
-            scaleControl: false,
-            streetViewControl: false,
-            draggable: false,
-            panControl: true,
-            panControlOptions: {
-                position: google.maps.ControlPosition.BOTTOM_CENTER
-            },
-            zoomControl: true,
-            zoomControlOptions: {
-                style: google.maps.ZoomControlStyle.LARGE,
-                position: google.maps.ControlPosition.LEFT_CENTER
-            }
-        }
-        var map = new google.maps.Map(document.getElementById("map_canvas"),
-                mapOptions);
-
-        var marker = new google.maps.Marker({
-            position: myLatlng,
-            title: "Hello World!"
-        });
-
-// To add the marker to the map, call setMap();
-        marker.setMap(map);
-    }
-    initialize();
-</script>
 </body>
 </html>
