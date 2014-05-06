@@ -66,7 +66,8 @@
 <div class="header_text">
     <div class="container_12">
         <div class="grid_9">
-            <h3>Welcome to the India's first open source entrepreneurial training system</h3>
+            <h3>Welcome to our &#34;Open Source Entrepreneurial Training System&#34; &#45; Legendary Content &#43;
+                Evolving Technology. </h3>
         </div>
     </div>
 </div>
@@ -80,9 +81,9 @@
         entrepreneurs. Our primary objective is to create a revolutionized speed of growth among the youth - mentally,
         emotionally, financially &amp; spiritually.</p>
 
-    <p>We focus on giving a platform for those who wish to be entrepreneur to fail, learn &amp; succeed. We facilitate
-        this critical process of failing and raising by providing a Gurukul system of mentorship and revolutonary OSETS
-        (Open Source Entrepreneural Training System).</p>
+    <p>Our focus is to create a platform for aspiring &#39;Entrepreneurs&#39; and facilitate an environment similar to a
+        Gurukul system that facilitates mentoring. This, along with our revolutionary OSETS, creates a sure shot success
+        system for all those who think they can be entrepreneurs and also those who feel they can&#39;t. </p>
 </div>
 <div class="grid_12">
     <div class="divider_page"><h2>Features</h2></div>
@@ -95,8 +96,10 @@
                     <div class="medium">OUR</div>
                     <div class="large">VISION</div>
                 </div>
-                <p class="feature_desc">To have more collaboration towards making India a super power and an epitome of
-                    world peace and prosperity</p>
+                <p class="feature_desc">&#34;My faith in the younger generation. Bring them together, organize them.
+                    They hold the key to awaken this nation.&#34;</p>
+
+                <p class="feature_desc"><b>&#45;Swami Vivekananda</b></p>
             </div>
             <div class="feature_link"><a href="vision.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
@@ -112,8 +115,10 @@
                     <div class="medium">OUR</div>
                     <div class="large">MISSION</div>
                 </div>
-                <p class="feature_desc">Our mission is to wake the Gen Y to the power of these agents to create 50,000
-                    Edupreneurs by 2015</p>
+                <p class="feature_desc">&#34;Among these very boys will ARISE in time great heroes of action and
+                    spirituality who will in future work out my ideas&#34;</p>
+
+                <p class="feature_desc"><b>&#45;Swami Vivekananda</b></p>
             </div>
             <div class="feature_link"><a href="mission.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
@@ -129,7 +134,9 @@
                     <div class="medium">OUR</div>
                     <div class="large">TRAININGS</div>
                 </div>
-                <p class="feature_desc">Here, our complete focus is the all-round development of an individual. Mentally, Emotionally, Financially and Spiritually</p>
+                <p class="feature_desc">&#34;We helping you build a strong MIND before you can use it to build a successful business&#34;</p>
+
+                <p class="feature_desc"><b>&#45; #RevolutionGYAI</b></p>
             </div>
             <div class="feature_link"><a href="training.php" class="arrows_icons16 icon16_5 tooltip_s"
                                          title="Read More"></a></div>
@@ -390,7 +397,8 @@
                                target="_blank" class="social_colored twitter tooltip_s" title="Twitter"></a>
                             <a href="http://www.facebook.com/sharer.php?u=http://dreamlife.designforlifeden.com/blog_single_post.html"
                                target="_blank" class="social_colored facebook tooltip_s" title="Facebook"></a>
-                            <a href="http://linkedin.com/shareArticle?mini=true&amp;url=http://dreamlife.designforlifeden.com/blog_single_post.html&amp;title=DreamLife%20Responsive%20Template"
+                            <a href="http://linkedin.com/shareArticle?mini=true&amp;
+url=http://dreamlife.designforlifeden.com/blog_single_post.html&amp;title=DreamLife%20Responsive%20Template"
                                target="_blank" class="social_colored linkedin tooltip_s" title="LinkedIn"></a>
                             <a href="mailto:?subject=DreamLife%20Responsive%20Template&amp;body=http://dreamlife.designforlifeden.com/blog_single_post.html"
                                class="social_colored mail tooltip_s" title="Mail"></a>
@@ -401,19 +409,19 @@
             </div>
         </div>
         &lt;!&ndash; a post image end &ndash;&gt;
-        &lt;!&ndash; post details &ndash;&gt;
+&lt;!&ndash; post details &ndash;&gt;
         <div class="grid_6 omega">
             &lt;!&ndash; post heading &ndash;&gt;
             <h3 class="pp_heading"><a href="blog_single_post.html">Tour the world</a></h3>
             &lt;!&ndash; post heading end &ndash;&gt;
-            &lt;!&ndash; post meta info &ndash;&gt;
+&lt;!&ndash; post meta info &ndash;&gt;
             <div class="meta-info">
                 <div class="date-info">January 2st, 2013</div>
                 <div class="comment-info"><a href="blog_single_post.html#comments"
                                              title="Comment on Praesent Et Urna Turpis Sadips">2 Comments</a></div>
             </div>
             &lt;!&ndash; post meta info end &ndash;&gt;
-            &lt;!&ndash; post content &ndash;&gt;
+&lt;!&ndash; post content &ndash;&gt;
             <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad
                 litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique.</p>
 
@@ -428,7 +436,8 @@
 <!-- our clients -->
 <div class="grid_12">
     <div class="divider_page">
-        <h2>Colleges</h2>
+        <h2>&#35;RevolutionGYAI has successfully conducted &#34;OSETS Awareness&#34; seminars in the following
+            colleges</h2>
 
         <div class="heading_button">
             <div class="prev_button" id="ourclients_prev">Prev</div>

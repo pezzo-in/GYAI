@@ -590,6 +590,7 @@ ul.sidebar_cat li a {
     display: block;
     font-size: 12px;
     text-align: center;
+    color: #999999;
 }
 
 .our_clients .a_client.ocean3d {
