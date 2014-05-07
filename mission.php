@@ -91,12 +91,7 @@
             </p>
 
             <div class="blockquote">
-                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                    classical
-                    Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
-                    Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from
-                    a
-                    Lorem Ipsum passage, and going through the cites of the word in classical literature.</p>
+                <p>Disclaimer &#45; We do not endorse the concept of &#34;Traditional Get Rich Quick Schemes&#34;. We believe Money MUST be created by providing genuine value and services</p>
             </div>
 
         </div>

@@ -134,7 +134,7 @@
                     <div class="medium">OUR</div>
                     <div class="large">TRAININGS</div>
                 </div>
-                <p class="feature_desc">&#34;Open Source Entrepreneurial Training System helping you build a strong MIND
+                <p class="feature_desc">&#34;Open Source Entrepreneurial Training System helps you build a strong MIND
                     before you can use it to build a successful business&#34;</p>
 
                 <p class="feature_desc"><b>&#45; #RevolutionGYAI</b></p>

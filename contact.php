@@ -92,6 +92,7 @@
     <div class="sidebar left grid_3">
         <div class="divider_page"><h4>Contact Info</h4></div>
         <p><b>Telephone:</b><br>+91 8951 041 238<br></p>
+        <p><b>Email:</b><br>info@gyai.in<br></p>
         <div class="divider_page"><h4>Get Social</h4></div>
         <p>
             <!--<a href="#" class="social_icons16 icon16_1 tooltip_s" title="Digg"></a>
@@ -112,9 +113,10 @@
             <a href="#" class="social_icons16 icon16_16 tooltip_s" title="Moby Picture"></a>
             <a href="#" class="social_icons16 icon16_28 tooltip_s" title="Twitter"></a>
             <a href="#" class="social_icons16 icon16_2 tooltip_s" title="Facebook"></a>-->
-            <a href="#" class="social_icons16 icon16_22 tooltip_s" title="Facebook"></a>
-            <a href="#" class="social_icons16 icon16_11 tooltip_s" title="Google Plus"></a>
-            <a href="#" class="social_icons16 icon16_3 tooltip_s" title="Twitter"></a>
+            <a href="https://www.facebook.com/GenYAwakeningIndia" class="social_icons16 icon16_22 tooltip_s" title="Facebook"></a>
+            <a href="https://twitter.com/revolutiongyai/" class="social_icons16 icon16_18 tooltip_s" title="Twitter"></a>
+            <a href="https://plus.google.com/b/109757057595785114308/109757057595785114308/posts" class="social_icons16 icon16_11 tooltip_s" title="Google Plus"></a>
+            <a href="https://www.youtube.com/channel/UCaJSvkY8fnZa7pfKdmkkEYA" class="social_icons16 icon16_23 tooltip_s" title="Youtube"></a>
         </p>
     </div>
 </div>

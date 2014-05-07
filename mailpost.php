@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST['name']) && isset($_POST['mail']) && isset($_POST['subject']) && isset($_POST['message'])){
-	$address="your@mail.com";
+	$address="info@gyai.in";
 	$fname = $_POST['name'];
 	$fmail = $_POST['mail'];
 	$fsubject = $_POST['subject'];

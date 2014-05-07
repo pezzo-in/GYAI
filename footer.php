@@ -73,22 +73,10 @@
             </div>
             <div class="grid_6">
                 <div class="float_right socialicons">
-                    <a href="http://facebook.com/" target="_blank" class="social_colored facebook"
-                       title="Facebook"></a>
-                    <a href="http://twitter.com/" target="_blank" class="social_colored twitter"
-                       title="Twitter"></a>
-                    <a href="http://flickr.com/" target="_blank" class="social_colored flickr" title="Flickr"></a>
-                    <!--<a href="http://dribbble.com/" target="_blank" class="social_colored dribbble"
-                       title="Dribbble"></a>
-                    <a href="http://myspace.com/" target="_blank" class="social_colored myspace"
-                       title="MySpace"></a>
-                    <a href="http://forrst.com/" target="_blank" class="social_colored forrst" title="Forrst"></a>
-                    <a href="http://linkedin.com/" target="_blank" class="social_colored linkedin"
-                       title="Linkedin"></a>
-                    <a href="http://skype.com/" target="_blank" class="social_colored skype" title="Skype"></a>
-                    <a href="http://vimeo.com/" target="_blank" class="social_colored vimeo" title="Vimeo"></a>
-                    <a href="http://tumblr.com/" target="_blank" class="social_colored tumblr" title="Tumblr"></a>-->
-                    <a href="mailto:yourmail@mail.com" class="social_colored mail" title="Mail"></a>
+                    <a href="https://www.facebook.com/GenYAwakeningIndia" class="social_icons16 icon16_22 tooltip_s" title="Facebook"></a>
+                    <a href="https://twitter.com/revolutiongyai/" class="social_icons16 icon16_18 tooltip_s" title="Twitter"></a>
+                    <a href="https://plus.google.com/b/109757057595785114308/109757057595785114308/posts" class="social_icons16 icon16_11 tooltip_s" title="Google Plus"></a>
+                    <a href="https://www.youtube.com/channel/UCaJSvkY8fnZa7pfKdmkkEYA" class="social_icons16 icon16_23 tooltip_s" title="Youtube"></a>
                 </div>
             </div>
         </div>
