@@ -65,9 +65,9 @@
 <!-- header text -->
 <div class="header_text">
     <div class="container_12">
-        <div class="grid_9">
-            <h3>Welcome to our &#34;Open Source Entrepreneurial Training System&#34; &#45; Legendary Content &#43;
-                Evolving Technology. </h3>
+        <div class="grid_12" style="text-align: center">
+            <h3>Welcome to our &#34;Open Source Entrepreneurial Training System&#34;
+                <h5>Legendary Content &#43; Evolving Technology</h5></h3>
         </div>
     </div>
 </div>
@@ -134,7 +134,8 @@
                     <div class="medium">OUR</div>
                     <div class="large">TRAININGS</div>
                 </div>
-                <p class="feature_desc">&#34;We helping you build a strong MIND before you can use it to build a successful business&#34;</p>
+                <p class="feature_desc">&#34;Open Source Entrepreneurial Training System helping you build a strong MIND
+                    before you can use it to build a successful business&#34;</p>
 
                 <p class="feature_desc"><b>&#45; #RevolutionGYAI</b></p>
             </div>
@@ -436,7 +437,7 @@ url=http://dreamlife.designforlifeden.com/blog_single_post.html&amp;title=DreamL
 <!-- our clients -->
 <div class="grid_12">
     <div class="divider_page">
-        <h2>&#35;RevolutionGYAI has successfully conducted &#34;OSETS Awareness&#34; seminars in the following
+        <h2>&#35;RevolutionGYAI has conducted &#34;OSETS Awareness&#34; seminars in the following
             colleges</h2>
 
         <div class="heading_button">
