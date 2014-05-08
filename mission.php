@@ -32,7 +32,7 @@
                 <li>
                     <a href="training.php">Training</a>
                     <ul>
-                        <li><a href="training.php#ecell">Ecell</a></li>
+                        <li><a href="training.php#ecell">College integrated Ecells</a></li>
                     </ul>
                 </li>
                 <li>
@@ -91,9 +91,8 @@
             </p>
 
             <div class="blockquote">
-                <p>Disclaimer &#45; We do not endorse the concept of &#34;Traditional Get Rich Quick Schemes&#34;. We believe Money MUST be created by providing genuine value and services</p>
+                <p>Disclaimer &#45; We do not endorse the concept of &#34;Traditional Get Rich Quick Schemes&#34;. We believe that wealth MUST be created by providing genuine value and services</p>
             </div>
-
         </div>
     </div>
     <!-- container 12 end -->

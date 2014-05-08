@@ -242,6 +242,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    display: none;
 }
 
 .camera_wrap .camera_pag .camera_pag_ul li {

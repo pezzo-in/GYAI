@@ -286,11 +286,8 @@ ul#mainmenu > li:first-child:before, .mobile_link:before {
     position: absolute;
     width: 120px;
     height: 120px;
-    -webkit-border-radius: 120px;
-    -moz-border-radius: 120px;
-    border-radius: 120px;
     top: -30px;
-    left: -110px;
+    left: -120px;
     -moz-box-shadow: 3px 0px 9px rgba(0, 0, 0, 0.1);
     -webkit-box-shadow: 3px 0px 9px rgba(0, 0, 0, 0.1);
     box-shadow: 3px 0px 9px rgba(0, 0, 0, 0.1);

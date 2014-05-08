@@ -31,7 +31,7 @@
             <li>
                 <a href="training.php">Training</a>
                 <ul>
-                    <li><a href="training.php#ecell">Ecell</a></li>
+                    <li><a href="training.php#ecell">College integrated Ecells</a></li>
                 </ul>
             </li>
             <li>
@@ -62,10 +62,6 @@
     <!-- container with sidebar -->
     <div class="content right grid_9">
         <div class="divider_page"><h4>Get In Touch With Us!</h4></div>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in
-            some form, by injected humour, or randomised words which don't look even slightly believable. If you are
-            going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the
-            middle of text.</p>
 
         <div class="contact_form">
             <form action="contact.php" method="post" name="messageform">

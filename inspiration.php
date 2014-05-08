@@ -34,7 +34,7 @@
                 <li>
                     <a href="training.php">Training</a>
                     <ul>
-                        <li><a href="training.php#ecell">Ecell</a></li>
+                        <li><a href="training.php#ecell">College integrated Ecells</a></li>
                     </ul>
                 </li>
                 <li>

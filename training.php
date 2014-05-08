@@ -32,7 +32,7 @@
             <li>
                 <a href="training.php" class="active">Training</a>
                 <ul>
-                    <li><a href="training.php#ecell">Ecell</a></li>
+                    <li><a href="training.php#ecell">College integrated Ecells</a></li>
                 </ul>
             </li>
             <li>
@@ -104,7 +104,7 @@
         <div class="header_text">
             <div class="container_12">
                 <div class="grid_12">
-                    <h1 id="ecell">Ecell</h1>
+                    <h1 id="ecell">College integrated Ecells</h1>
                 </div>
             </div>
         </div>
@@ -149,9 +149,6 @@
             <li>
                 Creating Socio-Entrepreneurs who not only focus on their profits but also give equal importance on
                 creating a positive social impact with the ventures they start.
-            </li>
-            <li>
-                Hope this will be good !
             </li>
         </ul>
         </p>
