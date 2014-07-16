@@ -46,9 +46,13 @@
     <div class="camera_wrap" id="cameraSlider">
         <div data-thumb="assets/images/mix/80/image1.jpg" data-src="assets/images/mix/940/image1.jpg">
         </div>
-        <div data-thumb="assets/images/mix/80/image2.jpg" data-src="assets/images/mix/940/image2.jpg">
+        <div data-thumb="assets/images/mix/80/image1.jpg" data-src="assets/images/mix/940/image2.jpg">
         </div>
-        <div data-thumb="assets/images/mix/80/image3.jpg" data-src="assets/images/mix/940/image3.jpg">
+        <div data-thumb="assets/images/mix/80/image1.jpg" data-src="assets/images/mix/940/image3.jpg">
+        </div>
+        <div data-thumb="assets/images/mix/80/image2.jpg" data-src="assets/images/mix/940/image4.jpg">
+        </div>
+        <div data-thumb="assets/images/mix/80/image3.jpg" data-src="assets/images/mix/940/image5.jpg">
             <!--<div class="camera_desc blue heading fadeIn camera_effected"
                  style="bottom:230px;left:50%;margin-left:-95px;">Enjoy the Landscape!
             </div>
