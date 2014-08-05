@@ -66,16 +66,16 @@
         <div class="contact_form">
             <form action="contact.php" method="post" name="messageform">
                 <div class="grid_3 alpha">
-                    <input name="namesurname" type="text" value="Name:" class="input-text"/>
+                    <input name="namesurname" type="text" value="Name" class="input-text"/>
                 </div>
                 <div class="grid_3 lambda">
-                    <input name="email" type="text" value="E-Mail:" class="input-text"/>
+                    <input name="email" type="text" value="E-Mail" class="input-text"/>
                 </div>
                 <div class="grid_3 omega">
-                    <input name="subject" type="text" value="Subject:" class="input-text"/>
+                    <input name="subject" type="text" value="Subject" class="input-text"/>
                 </div>
                 <div class="grid_9 alpha omega">
-                    <textarea name="message" class="text-area">Message:</textarea>
+                    <textarea name="message" class="text-area">Message</textarea>
 
                     <div class="alert-contact"></div>
                     <span class="send-message sc_button medium">Send Message</span>
@@ -87,7 +87,7 @@
     <!-- sidebar left -->
     <div class="sidebar left grid_3">
         <div class="divider_page"><h4>Contact Info</h4></div>
-        <p><b>Telephone:</b><br>+91 8951 041 238<br></p>
+        <p><b>Telephone:</b><br>+91 8050 041 238<br></p>
         <p><b>Email:</b><br>info@gyai.in<br></p>
         <div class="divider_page"><h4>Get Social</h4></div>
         <p>

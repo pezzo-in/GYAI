@@ -225,7 +225,7 @@ code {
 /* Header
 --------------*/
 #header_wrapper {
-    background: url('../images/pattern/header_pattern2.png');
+    background: #ffffff url('../images/pattern/header_pattern2.png');
 }
 
 #header {
@@ -1490,6 +1490,7 @@ ul.commentlist li ul {
     height: 560px;
     display: block;
     background: url('../images/pattern/header_pattern2.png');
+    margin-top: 75px;
 }
 
 .nivo-slider {
